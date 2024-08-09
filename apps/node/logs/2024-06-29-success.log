@@ -1,0 +1,7 @@
+{"level":"success","message":"This is a success log","ms":"+1ms","service":"Test","timestamp":"2024-06-29T09:13:03.644Z"}
+{"level":"success","message":"This is a success log","ms":"+1ms","service":"Test","timestamp":"2024-06-29T09:13:20.229Z"}
+{"level":"success","message":"This is a success log","ms":"+2ms","service":"Test","timestamp":"2024-06-29T09:14:01.782Z"}
+{"level":"success","message":"This is a success log","ms":"+1ms","service":"Test","timestamp":"2024-06-29T09:34:00.856Z"}
+{"level":"success","message":"This is a success log","ms":"+0ms","service":"Test","timestamp":"2024-06-29T09:34:20.285Z"}
+{"level":"success","message":"This is a success log","ms":"+0ms","service":"Test","timestamp":"2024-06-29T09:38:57.073Z"}
+{"level":"success","message":"This is a success log","ms":"+0ms","service":"Test","timestamp":"2024-06-29T09:39:07.917Z"}

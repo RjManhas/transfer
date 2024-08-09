@@ -1,0 +1,4 @@
+{"level":"verbose","message":"Returned value","ms":"+1ms","service":"Test","timestamp":"2024-06-29T09:34:00.858Z"}
+{"level":"verbose","message":"Returned value","ms":"+2ms","service":"Test","timestamp":"2024-06-29T09:34:20.287Z"}
+{"level":"verbose","message":"Returned value","ms":"+1ms","service":"Test","timestamp":"2024-06-29T09:38:57.075Z"}
+{"level":"verbose","message":"Returned value","ms":"+1ms","service":"Test","timestamp":"2024-06-29T09:39:07.919Z"}

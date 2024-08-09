@@ -1,0 +1,5 @@
+{"level":"warn","message":"Warning","ms":"+1ms","service":"Test","timestamp":"2024-06-29T08:30:12.456Z"}
+{"level":"warn","message":"Warning","ms":"+1ms","service":"Test","timestamp":"2024-06-29T09:34:00.859Z"}
+{"level":"warn","message":"Warning","ms":"+0ms","service":"Test","timestamp":"2024-06-29T09:34:20.287Z"}
+{"level":"warn","message":"Warning","ms":"+0ms","service":"Test","timestamp":"2024-06-29T09:38:57.075Z"}
+{"level":"warn","message":"Warning","ms":"+0ms","service":"Test","timestamp":"2024-06-29T09:39:07.919Z"}

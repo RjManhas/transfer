@@ -1,0 +1,4 @@
+{"level":"myCustomLevel","message":"This is a custom level log","ms":"+0ms","service":"Test","timestamp":"2024-06-29T08:30:12.455Z"}
+{"level":"myCustomLevel","message":"This is a custom level log","ms":"+0ms","service":"Test","timestamp":"2024-06-29T08:53:22.401Z"}
+{"level":"myCustomLevel","message":"This is a custom level log","ms":"+0ms","service":"Test","timestamp":"2024-06-29T09:05:36.262Z"}
+{"level":"myCustomLevel","message":"This is a custom level log","ms":"+0ms","service":"Test","timestamp":"2024-06-29T09:05:53.990Z"}

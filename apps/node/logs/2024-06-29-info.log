@@ -1,0 +1,169 @@
+{"level":"info","message":"This is a log from the child logger","ms":"+1ms","service":"Test","timestamp":"2024-06-29T08:30:12.457Z"}
+{"level":"info","message":"This is an info log","ms":"+0ms","service":"Test","timestamp":"2024-06-29T09:13:03.643Z"}
+{"level":"info","message":"This is an info log","ms":"+0ms","service":"Test","timestamp":"2024-06-29T09:13:20.228Z"}
+{"level":"info","message":"This is an info log","ms":"+0ms","service":"Test","timestamp":"2024-06-29T09:14:01.780Z"}
+{"level":"info","message":"asd","ms":"+0ms","service":"Test","timestamp":"2024-06-29T09:29:57.435Z"}
+{"level":"info","message":"asd","ms":"+0ms","service":"Test","timestamp":"2024-06-29T09:31:54.905Z"}
+{"level":"info","message":"asd","ms":"+0ms","service":"Test","timestamp":"2024-06-29T09:33:59.411Z"}
+{"level":"info","message":"asd","ms":"+0ms","service":"Test","timestamp":"2024-06-29T09:34:00.854Z"}
+{"level":"info","message":"This is an info log","ms":"+1ms","service":"Test","timestamp":"2024-06-29T09:34:00.855Z"}
+{"level":"info","message":"This is a log from the child logger","ms":"+0ms","service":"Test","timestamp":"2024-06-29T09:34:00.859Z"}
+{"level":"info","message":"asd","ms":"+0ms","service":"Test","timestamp":"2024-06-29T09:34:20.283Z"}
+{"level":"info","message":"This is an info log","ms":"+2ms","service":"Test","timestamp":"2024-06-29T09:34:20.285Z"}
+{"level":"info","message":"This is a log from the child logger","ms":"+0ms","seravice":"Child","service":"Test","timestamp":"2024-06-29T09:34:20.287Z"}
+{"level":"info","message":"asd","ms":"+0ms","service":"Test","timestamp":"2024-06-29T09:38:57.072Z"}
+{"level":"info","message":"This is an info log","ms":"+1ms","service":"Test","timestamp":"2024-06-29T09:38:57.073Z"}
+{"level":"info","message":"This is a log from the child logger","ms":"+1ms","seravice":"Child","service":"Test","timestamp":"2024-06-29T09:38:57.076Z"}
+{"level":"info","message":"asd","ms":"+0ms","service":"Test","timestamp":"2024-06-29T09:39:07.915Z"}
+{"level":"info","message":"This is an info log","ms":"+2ms","service":"Test","timestamp":"2024-06-29T09:39:07.917Z"}
+{"level":"info","message":"This is a log from the child logger","ms":"+0ms","seravice":"Child","service":"Test","timestamp":"2024-06-29T09:39:07.919Z"}
+{"level":"info","message":"TSDX logger initialized successfully","ms":"+0ms","service":"Test","timestamp":"2024-06-29T09:53:15.036Z"}
+{"level":"info","message":"Version: 0.0.0","ms":"+0ms","service":"Test","timestamp":"2024-06-29T09:57:45.380Z"}
+{"level":"info","message":"TSDX logger initialized successfully","ms":"+1ms","service":"Test","timestamp":"2024-06-29T09:57:45.381Z"}
+{"level":"info","message":"  _____ ____  ______  __\n |_   _/ ___||  _ \\ \\/ /\n   | | \\___ \\| | | \\  / \n   | |  ___) | |_| /  \\ \n   |_| |____/|____/_/\\_\\\n                        ","ms":"+8ms","service":"Test","timestamp":"2024-06-29T09:57:45.389Z"}
+{"level":"info","message":"Version: 0.0.0","ms":"+0ms","service":"Test","timestamp":"2024-06-29T09:57:58.038Z"}
+{"level":"info","message":"TSDX logger initialized successfully","ms":"+1ms","service":"Test","timestamp":"2024-06-29T09:57:58.039Z"}
+{"level":"info","message":"\n  _____ ____  ______  __\n |_   _/ ___||  _ \\ \\/ /\n   | | \\___ \\| | | \\  / \n   | |  ___) | |_| /  \\ \n   |_| |____/|____/_/\\_\\\n                        ","ms":"+9ms","service":"Test","timestamp":"2024-06-29T09:57:58.048Z"}
+{"level":"info","message":"\n  _____ ____  ______  __\n |_   _/ ___||  _ \\ \\/ /\n   | | \\___ \\| | | \\  / \n   | |  ___) | |_| /  \\ \n   |_| |____/|____/_/\\_\\\n                        ","ms":"+0ms","service":"Test","timestamp":"2024-06-29T10:00:36.067Z"}
+{"level":"info","message":"Version: 0.0.0","ms":"+1ms","service":"Test","timestamp":"2024-06-29T10:00:36.068Z"}
+{"level":"info","message":"TSDX logger initialized successfully","ms":"+1ms","service":"Test","timestamp":"2024-06-29T10:00:36.069Z"}
+{"level":"info","message":"\n  _____ ____  ______  __\n |_   _/ ___||  _ \\ \\/ /\n   | | \\___ \\| | | \\  / \n   | |  ___) | |_| /  \\ \n   |_| |____/|____/_/\\_\\\n                        ","ms":"+0ms","service":"Test","timestamp":"2024-06-29T10:02:42.340Z"}
+{"level":"info","message":"Version: 0.0.0","ms":"+1ms","service":"Test","timestamp":"2024-06-29T10:02:42.341Z"}
+{"level":"info","message":"TSDX initialzing","ms":"+1ms","service":"Test","timestamp":"2024-06-29T10:02:42.342Z"}
+{"level":"info","message":"TSDX logger initialized successfully","ms":"+0ms","service":"Test","timestamp":"2024-06-29T10:02:42.342Z"}
+{"level":"info","message":"\n  _____ ____  ______  __\n |_   _/ ___||  _ \\ \\/ /\n   | | \\___ \\| | | \\  / \n   | |  ___) | |_| /  \\ \n   |_| |____/|____/_/\\_\\\n                        ","ms":"+0ms","system":"main","timestamp":"2024-06-29T10:06:26.160Z"}
+{"level":"info","message":"Version: 0.0.0","ms":"+3ms","system":"main","timestamp":"2024-06-29T10:06:26.163Z"}
+{"level":"info","message":"TSDX initialzing","ms":"+1ms","system":"main","timestamp":"2024-06-29T10:06:26.164Z"}
+{"level":"info","message":"TSDX logger initialized successfully","ms":"+0ms","system":"main","timestamp":"2024-06-29T10:06:26.164Z"}
+{"level":"info","message":"\n  _____ ____  ______  __\n |_   _/ ___||  _ \\ \\/ /\n   | | \\___ \\| | | \\  / \n   | |  ___) | |_| /  \\ \n   |_| |____/|____/_/\\_\\\n                        ","ms":"+0ms","system":"main","timestamp":"2024-06-29T10:09:07.448Z"}
+{"level":"info","message":"Version: 0.0.0","ms":"+3ms","system":"main","timestamp":"2024-06-29T10:09:07.451Z"}
+{"level":"info","message":"TSDX initialzing","ms":"+0ms","system":"main","timestamp":"2024-06-29T10:09:07.451Z"}
+{"level":"info","message":"TSDX logger initialized successfully","ms":"+0ms","system":"main","timestamp":"2024-06-29T10:09:07.451Z"}
+{"level":"info","message":"TSDX config handler initialized successfully","ms":"+1ms","system":"main","timestamp":"2024-06-29T10:09:07.452Z"}
+{"level":"info","message":"TSDX event handler initialized successfully","ms":"+0ms","system":"main","timestamp":"2024-06-29T10:09:07.452Z"}
+{"level":"info","message":"TSDX booting up as a control node","ms":"+0ms","system":"main","timestamp":"2024-06-29T10:09:07.452Z"}
+{"level":"info","message":"\n  _____ ____  ______  __\n |_   _/ ___||  _ \\ \\/ /\n   | | \\___ \\| | | \\  / \n   | |  ___) | |_| /  \\ \n   |_| |____/|____/_/\\_\\\n                        ","ms":"+0ms","system":"main","timestamp":"2024-06-29T10:09:40.503Z"}
+{"level":"info","message":"Version: 0.0.0","ms":"+4ms","system":"main","timestamp":"2024-06-29T10:09:40.507Z"}
+{"level":"info","message":"TSDX initialzing","ms":"+0ms","system":"main","timestamp":"2024-06-29T10:09:40.507Z"}
+{"level":"info","message":"TSDX logger initialized successfully","ms":"+1ms","system":"main","timestamp":"2024-06-29T10:09:40.508Z"}
+{"level":"info","message":"TSDX config handler initialized successfully","ms":"+0ms","system":"main","timestamp":"2024-06-29T10:09:40.508Z"}
+{"level":"info","message":"TSDX event handler initialized successfully","ms":"+1ms","system":"main","timestamp":"2024-06-29T10:09:40.509Z"}
+{"level":"info","message":"TSDX booting up as a control node","ms":"+0ms","system":"main","timestamp":"2024-06-29T10:09:40.509Z"}
+{"level":"info","message":"TSDX server intialized successfully","ms":"+1ms","system":"main","timestamp":"2024-06-29T10:09:40.510Z"}
+{"level":"info","message":"\n  _____ ____  ______  __\n |_   _/ ___||  _ \\ \\/ /\n   | | \\___ \\| | | \\  / \n   | |  ___) | |_| /  \\ \n   |_| |____/|____/_/\\_\\\n                        ","ms":"+0ms","system":"main","timestamp":"2024-06-29T10:09:44.002Z"}
+{"level":"info","message":"Version: 0.0.0","ms":"+2ms","system":"main","timestamp":"2024-06-29T10:09:44.005Z"}
+{"level":"info","message":"TSDX initialzing","ms":"+1ms","system":"main","timestamp":"2024-06-29T10:09:44.006Z"}
+{"level":"info","message":"TSDX logger initialized successfully","ms":"+0ms","system":"main","timestamp":"2024-06-29T10:09:44.006Z"}
+{"level":"info","message":"TSDX config handler initialized successfully","ms":"+0ms","system":"main","timestamp":"2024-06-29T10:09:44.006Z"}
+{"level":"info","message":"TSDX event handler initialized successfully","ms":"+1ms","system":"main","timestamp":"2024-06-29T10:09:44.007Z"}
+{"level":"info","message":"TSDX booting up as a control node","ms":"+0ms","system":"main","timestamp":"2024-06-29T10:09:44.007Z"}
+{"level":"info","message":"TSDX HTTP server intialized successfully","ms":"+0ms","system":"main","timestamp":"2024-06-29T10:09:44.007Z"}
+{"level":"info","message":"\n  _____ ____  ______  __\n |_   _/ ___||  _ \\ \\/ /\n   | | \\___ \\| | | \\  / \n   | |  ___) | |_| /  \\ \n   |_| |____/|____/_/\\_\\\n                        ","ms":"+0ms","system":"main","timestamp":"2024-06-29T10:19:22.140Z"}
+{"level":"info","message":"Version: 0.0.0","ms":"+2ms","system":"main","timestamp":"2024-06-29T10:19:22.142Z"}
+{"level":"info","message":"TSDX initialzing","ms":"+1ms","system":"main","timestamp":"2024-06-29T10:19:22.143Z"}
+{"level":"info","message":"TSDX logger initialized successfully","ms":"+0ms","system":"main","timestamp":"2024-06-29T10:19:22.143Z"}
+{"level":"info","message":"TSDX config handler initialized successfully","ms":"+0ms","system":"main","timestamp":"2024-06-29T10:19:22.143Z"}
+{"level":"info","message":"TSDX event handler initialized successfully","ms":"+0ms","system":"main","timestamp":"2024-06-29T10:19:22.143Z"}
+{"level":"info","message":"TSDX booting up as a control node","ms":"+0ms","system":"main","timestamp":"2024-06-29T10:19:22.143Z"}
+{"level":"info","message":"TSDX HTTP server intialized successfully","ms":"+1ms","system":"main","timestamp":"2024-06-29T10:19:22.144Z"}
+{"level":"info","message":"TSDX application ready","ms":"+0ms","system":"main","timestamp":"2024-06-29T10:19:22.144Z"}
+{"level":"info","message":"\n  _____ ____  ______  __\n |_   _/ ___||  _ \\ \\/ /\n   | | \\___ \\| | | \\  / \n   | |  ___) | |_| /  \\ \n   |_| |____/|____/_/\\_\\\n                        ","ms":"+0ms","system":"main","timestamp":"2024-06-29T10:19:25.577Z"}
+{"level":"info","message":"Version: 0.0.0","ms":"+4ms","system":"main","timestamp":"2024-06-29T10:19:25.581Z"}
+{"level":"info","message":"TSDX initialzing","ms":"+1ms","system":"main","timestamp":"2024-06-29T10:19:25.582Z"}
+{"level":"info","message":"TSDX logger initialized successfully","ms":"+0ms","system":"main","timestamp":"2024-06-29T10:19:25.582Z"}
+{"level":"info","message":"TSDX config handler initialized successfully","ms":"+0ms","system":"main","timestamp":"2024-06-29T10:19:25.582Z"}
+{"level":"info","message":"TSDX event handler initialized successfully","ms":"+1ms","system":"main","timestamp":"2024-06-29T10:19:25.583Z"}
+{"level":"info","message":"TSDX booting up as a control node","ms":"+0ms","system":"main","timestamp":"2024-06-29T10:19:25.583Z"}
+{"level":"info","message":"TSDX HTTP server intialized successfully","ms":"+1ms","system":"main","timestamp":"2024-06-29T10:19:25.584Z"}
+{"level":"info","message":"\n  _____ ____  ______  __\n |_   _/ ___||  _ \\ \\/ /\n   | | \\___ \\| | | \\  / \n   | |  ___) | |_| /  \\ \n   |_| |____/|____/_/\\_\\\n                        ","ms":"+0ms","system":"main","timestamp":"2024-06-29T10:19:34.789Z"}
+{"level":"info","message":"Version: 0.0.0","ms":"+3ms","system":"main","timestamp":"2024-06-29T10:19:34.792Z"}
+{"level":"info","message":"TSDX initialzing","ms":"+1ms","system":"main","timestamp":"2024-06-29T10:19:34.793Z"}
+{"level":"info","message":"TSDX logger initialized successfully","ms":"+0ms","system":"main","timestamp":"2024-06-29T10:19:34.793Z"}
+{"level":"info","message":"TSDX config handler initialized successfully","ms":"+0ms","system":"main","timestamp":"2024-06-29T10:19:34.793Z"}
+{"level":"info","message":"TSDX event handler initialized successfully","ms":"+0ms","system":"main","timestamp":"2024-06-29T10:19:34.793Z"}
+{"level":"info","message":"TSDX booting up as a control node","ms":"+1ms","system":"main","timestamp":"2024-06-29T10:19:34.794Z"}
+{"level":"info","message":"TSDX HTTP server intialized successfully","ms":"+0ms","system":"main","timestamp":"2024-06-29T10:19:34.794Z"}
+{"level":"info","message":"TSDX application ready","ms":"+1ms","system":"main","timestamp":"2024-06-29T10:19:34.795Z"}
+{"level":"info","message":"\n  _____ ____  ______  __\n |_   _/ ___||  _ \\ \\/ /\n   | | \\___ \\| | | \\  / \n   | |  ___) | |_| /  \\ \n   |_| |____/|____/_/\\_\\\n                        ","ms":"+0ms","system":"main","timestamp":"2024-06-29T10:19:39.801Z"}
+{"level":"info","message":"Version: 0.0.0","ms":"+3ms","system":"main","timestamp":"2024-06-29T10:19:39.804Z"}
+{"level":"info","message":"TSDX initialzing","ms":"+1ms","system":"main","timestamp":"2024-06-29T10:19:39.805Z"}
+{"level":"info","message":"TSDX logger initialized successfully","ms":"+0ms","system":"main","timestamp":"2024-06-29T10:19:39.805Z"}
+{"level":"info","message":"TSDX config handler initialized successfully","ms":"+1ms","system":"main","timestamp":"2024-06-29T10:19:39.806Z"}
+{"level":"info","message":"TSDX event handler initialized successfully","ms":"+0ms","system":"main","timestamp":"2024-06-29T10:19:39.806Z"}
+{"level":"info","message":"TSDX booting up as a control node","ms":"+0ms","system":"main","timestamp":"2024-06-29T10:19:39.806Z"}
+{"level":"info","message":"TSDX HTTP server intialized successfully","ms":"+0ms","system":"main","timestamp":"2024-06-29T10:19:39.806Z"}
+{"level":"info","message":"\n  _____ ____  ______  __\n |_   _/ ___||  _ \\ \\/ /\n   | | \\___ \\| | | \\  / \n   | |  ___) | |_| /  \\ \n   |_| |____/|____/_/\\_\\\n                        ","ms":"+0ms","system":"main","timestamp":"2024-06-29T10:20:53.559Z"}
+{"level":"info","message":"Version: 0.0.0","ms":"+3ms","system":"main","timestamp":"2024-06-29T10:20:53.562Z"}
+{"level":"info","message":"TSDX initialzing","ms":"+1ms","system":"main","timestamp":"2024-06-29T10:20:53.563Z"}
+{"level":"info","message":"TSDX logger initialized successfully","ms":"+0ms","system":"main","timestamp":"2024-06-29T10:20:53.563Z"}
+{"level":"info","message":"TSDX config handler initialized successfully","ms":"+0ms","system":"main","timestamp":"2024-06-29T10:20:53.563Z"}
+{"level":"info","message":"TSDX event handler initialized successfully","ms":"+1ms","system":"main","timestamp":"2024-06-29T10:20:53.564Z"}
+{"level":"info","message":"TSDX booting up as a control node","ms":"+0ms","system":"main","timestamp":"2024-06-29T10:20:53.564Z"}
+{"level":"info","message":"TSDX HTTP server intialized successfully","ms":"+0ms","system":"main","timestamp":"2024-06-29T10:20:53.564Z"}
+{"level":"info","message":"\n  _____ ____  ______  __\n |_   _/ ___||  _ \\ \\/ /\n   | | \\___ \\| | | \\  / \n   | |  ___) | |_| /  \\ \n   |_| |____/|____/_/\\_\\\n                        ","ms":"+0ms","system":"main","timestamp":"2024-06-29T10:21:04.071Z"}
+{"level":"info","message":"Version: 0.0.0","ms":"+3ms","system":"main","timestamp":"2024-06-29T10:21:04.074Z"}
+{"level":"info","message":"TSDX initialzing","ms":"+0ms","system":"main","timestamp":"2024-06-29T10:21:04.074Z"}
+{"level":"info","message":"TSDX logger initialized successfully","ms":"+0ms","system":"main","timestamp":"2024-06-29T10:21:04.074Z"}
+{"level":"info","message":"TSDX config handler initialized successfully","ms":"+0ms","system":"main","timestamp":"2024-06-29T10:21:04.074Z"}
+{"level":"info","message":"TSDX event handler initialized successfully","ms":"+1ms","system":"main","timestamp":"2024-06-29T10:21:04.075Z"}
+{"level":"info","message":"TSDX booting up as a control node","ms":"+0ms","system":"main","timestamp":"2024-06-29T10:21:04.075Z"}
+{"level":"info","message":"TSDX HTTP server intialized successfully","ms":"+0ms","system":"main","timestamp":"2024-06-29T10:21:04.075Z"}
+{"level":"info","message":"Adding event listener for custom event: app:ready","ms":"+0ms","system":"main","timestamp":"2024-06-29T10:21:04.075Z"}
+{"level":"info","message":"\n  _____ ____  ______  __\n |_   _/ ___||  _ \\ \\/ /\n   | | \\___ \\| | | \\  / \n   | |  ___) | |_| /  \\ \n   |_| |____/|____/_/\\_\\\n                        ","ms":"+0ms","system":"main","timestamp":"2024-06-29T10:21:07.585Z"}
+{"level":"info","message":"Version: 0.0.0","ms":"+4ms","system":"main","timestamp":"2024-06-29T10:21:07.589Z"}
+{"level":"info","message":"TSDX initialzing","ms":"+1ms","system":"main","timestamp":"2024-06-29T10:21:07.590Z"}
+{"level":"info","message":"TSDX logger initialized successfully","ms":"+1ms","system":"main","timestamp":"2024-06-29T10:21:07.591Z"}
+{"level":"info","message":"TSDX config handler initialized successfully","ms":"+0ms","system":"main","timestamp":"2024-06-29T10:21:07.591Z"}
+{"level":"info","message":"TSDX event handler initialized successfully","ms":"+0ms","system":"main","timestamp":"2024-06-29T10:21:07.591Z"}
+{"level":"info","message":"TSDX booting up as a control node","ms":"+0ms","system":"main","timestamp":"2024-06-29T10:21:07.591Z"}
+{"level":"info","message":"TSDX HTTP server intialized successfully","ms":"+1ms","system":"main","timestamp":"2024-06-29T10:21:07.591Z"}
+{"level":"info","message":"\n  _____ ____  ______  __\n |_   _/ ___||  _ \\ \\/ /\n   | | \\___ \\| | | \\  / \n   | |  ___) | |_| /  \\ \n   |_| |____/|____/_/\\_\\\n                        ","ms":"+0ms","system":"main","timestamp":"2024-06-29T10:21:09.467Z"}
+{"level":"info","message":"Version: 0.0.0","ms":"+3ms","system":"main","timestamp":"2024-06-29T10:21:09.470Z"}
+{"level":"info","message":"TSDX initialzing","ms":"+0ms","system":"main","timestamp":"2024-06-29T10:21:09.470Z"}
+{"level":"info","message":"TSDX logger initialized successfully","ms":"+0ms","system":"main","timestamp":"2024-06-29T10:21:09.470Z"}
+{"level":"info","message":"TSDX config handler initialized successfully","ms":"+1ms","system":"main","timestamp":"2024-06-29T10:21:09.471Z"}
+{"level":"info","message":"TSDX event handler initialized successfully","ms":"+0ms","system":"main","timestamp":"2024-06-29T10:21:09.471Z"}
+{"level":"info","message":"TSDX booting up as a control node","ms":"+0ms","system":"main","timestamp":"2024-06-29T10:21:09.471Z"}
+{"level":"info","message":"TSDX HTTP server intialized successfully","ms":"+0ms","system":"main","timestamp":"2024-06-29T10:21:09.471Z"}
+{"level":"info","message":"\n  _____ ____  ______  __\n |_   _/ ___||  _ \\ \\/ /\n   | | \\___ \\| | | \\  / \n   | |  ___) | |_| /  \\ \n   |_| |____/|____/_/\\_\\\n                        ","ms":"+0ms","system":"main","timestamp":"2024-06-29T10:21:11.457Z"}
+{"level":"info","message":"Version: 0.0.0","ms":"+4ms","system":"main","timestamp":"2024-06-29T10:21:11.461Z"}
+{"level":"info","message":"TSDX initialzing","ms":"+0ms","system":"main","timestamp":"2024-06-29T10:21:11.461Z"}
+{"level":"info","message":"TSDX logger initialized successfully","ms":"+1ms","system":"main","timestamp":"2024-06-29T10:21:11.462Z"}
+{"level":"info","message":"TSDX config handler initialized successfully","ms":"+0ms","system":"main","timestamp":"2024-06-29T10:21:11.462Z"}
+{"level":"info","message":"TSDX event handler initialized successfully","ms":"+0ms","system":"main","timestamp":"2024-06-29T10:21:11.462Z"}
+{"level":"info","message":"TSDX booting up as a control node","ms":"+0ms","system":"main","timestamp":"2024-06-29T10:21:11.462Z"}
+{"level":"info","message":"TSDX HTTP server intialized successfully","ms":"+0ms","system":"main","timestamp":"2024-06-29T10:21:11.462Z"}
+{"level":"info","message":"\n  _____ ____  ______  __\n |_   _/ ___||  _ \\ \\/ /\n   | | \\___ \\| | | \\  / \n   | |  ___) | |_| /  \\ \n   |_| |____/|____/_/\\_\\\n                        ","ms":"+0ms","system":"main","timestamp":"2024-06-29T10:21:38.928Z"}
+{"level":"info","message":"Version: 0.0.0","ms":"+3ms","system":"main","timestamp":"2024-06-29T10:21:38.931Z"}
+{"level":"info","message":"TSDX initialzing","ms":"+0ms","system":"main","timestamp":"2024-06-29T10:21:38.931Z"}
+{"level":"info","message":"TSDX logger initialized successfully","ms":"+1ms","system":"main","timestamp":"2024-06-29T10:21:38.932Z"}
+{"level":"info","message":"TSDX config handler initialized successfully","ms":"+0ms","system":"main","timestamp":"2024-06-29T10:21:38.932Z"}
+{"level":"info","message":"TSDX event handler initialized successfully","ms":"+0ms","system":"main","timestamp":"2024-06-29T10:21:38.932Z"}
+{"level":"info","message":"TSDX booting up as a control node","ms":"+0ms","system":"main","timestamp":"2024-06-29T10:21:38.932Z"}
+{"level":"info","message":"TSDX HTTP server intialized successfully","ms":"+0ms","system":"main","timestamp":"2024-06-29T10:21:38.932Z"}
+{"level":"info","message":"\n  _____ ____  ______  __\n |_   _/ ___||  _ \\ \\/ /\n   | | \\___ \\| | | \\  / \n   | |  ___) | |_| /  \\ \n   |_| |____/|____/_/\\_\\\n                        ","ms":"+0ms","system":"main","timestamp":"2024-06-29T10:21:41.714Z"}
+{"level":"info","message":"Version: 0.0.0","ms":"+4ms","system":"main","timestamp":"2024-06-29T10:21:41.718Z"}
+{"level":"info","message":"TSDX initialzing","ms":"+1ms","system":"main","timestamp":"2024-06-29T10:21:41.719Z"}
+{"level":"info","message":"TSDX logger initialized successfully","ms":"+0ms","system":"main","timestamp":"2024-06-29T10:21:41.719Z"}
+{"level":"info","message":"TSDX config handler initialized successfully","ms":"+1ms","system":"main","timestamp":"2024-06-29T10:21:41.720Z"}
+{"level":"info","message":"TSDX event handler initialized successfully","ms":"+0ms","system":"main","timestamp":"2024-06-29T10:21:41.720Z"}
+{"level":"info","message":"TSDX booting up as a control node","ms":"+1ms","system":"main","timestamp":"2024-06-29T10:21:41.721Z"}
+{"level":"info","message":"TSDX HTTP server intialized successfully","ms":"+0ms","system":"main","timestamp":"2024-06-29T10:21:41.721Z"}
+{"level":"info","message":"Adding event emitier for custom event: app:ready","ms":"+0ms","system":"main","timestamp":"2024-06-29T10:21:41.721Z"}
+{"level":"info","message":"\n  _____ ____  ______  __\n |_   _/ ___||  _ \\ \\/ /\n   | | \\___ \\| | | \\  / \n   | |  ___) | |_| /  \\ \n   |_| |____/|____/_/\\_\\\n                        ","ms":"+0ms","timestamp":"2024-06-29T10:22:03.755Z"}
+{"level":"info","message":"Version: 0.0.0","ms":"+3ms","timestamp":"2024-06-29T10:22:03.758Z"}
+{"level":"info","message":"TSDX initialzing","ms":"+0ms","timestamp":"2024-06-29T10:22:03.758Z"}
+{"level":"info","message":"TSDX logger initialized successfully","ms":"+0ms","timestamp":"2024-06-29T10:22:03.758Z"}
+{"level":"info","message":"TSDX config handler initialized successfully","ms":"+1ms","timestamp":"2024-06-29T10:22:03.759Z"}
+{"level":"info","message":"TSDX event handler initialized successfully","ms":"+0ms","timestamp":"2024-06-29T10:22:03.759Z"}
+{"level":"info","message":"TSDX booting up as a control node","ms":"+0ms","timestamp":"2024-06-29T10:22:03.759Z"}
+{"level":"info","message":"TSDX HTTP server intialized successfully","ms":"+0ms","timestamp":"2024-06-29T10:22:03.759Z"}
+{"level":"info","message":"Adding event emitier for custom event: app:ready","ms":"+1ms","system":"event","timestamp":"2024-06-29T10:22:03.759Z"}
+{"level":"info","message":"\n  _____ ____  ______  __\n |_   _/ ___||  _ \\ \\/ /\n   | | \\___ \\| | | \\  / \n   | |  ___) | |_| /  \\ \n   |_| |____/|____/_/\\_\\\n                        ","ms":"+0ms","timestamp":"2024-06-29T10:22:20.911Z"}
+{"level":"info","message":"Version: 0.0.0","ms":"+3ms","timestamp":"2024-06-29T10:22:20.914Z"}
+{"level":"info","message":"TSDX initialzing","ms":"+0ms","timestamp":"2024-06-29T10:22:20.914Z"}
+{"level":"info","message":"TSDX logger initialized successfully","ms":"+1ms","timestamp":"2024-06-29T10:22:20.915Z"}
+{"level":"info","message":"TSDX config handler initialized successfully","ms":"+0ms","timestamp":"2024-06-29T10:22:20.915Z"}
+{"level":"info","message":"TSDX event handler initialized successfully","ms":"+0ms","timestamp":"2024-06-29T10:22:20.915Z"}
+{"level":"info","message":"TSDX booting up as a control node","ms":"+0ms","timestamp":"2024-06-29T10:22:20.915Z"}
+{"level":"info","message":"TSDX HTTP server intialized successfully","ms":"+0ms","timestamp":"2024-06-29T10:22:20.915Z"}

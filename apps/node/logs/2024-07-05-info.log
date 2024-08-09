@@ -1,0 +1,6 @@
+{"level":"info","message":"\n  _____ ____  ______  __\n |_   _/ ___||  _ \\ \\/ /\n   | | \\___ \\| | | \\  / \n   | |  ___) | |_| /  \\ \n   |_| |____/|____/_/\\_\\\n                        ","ms":"+0ms","timestamp":"2024-07-05T18:26:33.815Z"}
+{"level":"info","message":"Version: 0.0.0","ms":"+5ms","timestamp":"2024-07-05T18:26:33.820Z"}
+{"level":"info","message":"TSDX initialzing","ms":"+1ms","timestamp":"2024-07-05T18:26:33.821Z"}
+{"level":"info","message":"TSDX config handler initializing","ms":"+1ms","timestamp":"2024-07-05T18:26:33.822Z"}
+{"level":"info","message":"TSDX booting up as a control node","ms":"+1ms","timestamp":"2024-07-05T18:26:33.823Z"}
+{"level":"info","message":"TSDX HTTP server intialized successfully","ms":"+0ms","timestamp":"2024-07-05T18:26:33.823Z"}

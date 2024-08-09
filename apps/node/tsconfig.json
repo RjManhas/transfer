@@ -1,0 +1,17 @@
+{
+  "extends": "@repo/typescript-config/base.json",
+  "include": [
+    "**/*.ts",
+
+  ],
+  "compilerOptions": {
+    "baseUrl": "./src",
+    "outDir": "./dist",
+    "paths": {
+            "@/src/*": ["./src/*"],
+            "@/src/shared/logger/*": ["./src/shared/logger/*"],
+            "@/config": ["./config"]
+        },
+  },
+  "exclude": ["node_modules", "dist"]
+}

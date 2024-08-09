@@ -1,0 +1,16 @@
+{"level":"alert","message":"Invalid configuration detected","ms":"+0ms","path":"key2.nestedObject.innerArray[1]","timestamp":"2024-06-30T08:15:16.745Z"}
+{"level":"alert","message":"Invalid configuration detected","ms":"+0ms","path":"key2.nestedArray[2]","timestamp":"2024-06-30T08:17:04.161Z"}
+{"level":"alert","message":"Invalid configuration detected","ms":"+2ms","path":"key2.nestedObject.innerArray[1]","timestamp":"2024-06-30T08:17:04.163Z"}
+{"level":"alert","message":"Invalid configuration detected","ms":"+0ms","path":"key2.nestedArray[2]","timestamp":"2024-06-30T08:18:11.588Z"}
+{"level":"alert","message":"Invalid configuration detected","ms":"+2ms","path":"key2.nestedObject.innerArray[1]","timestamp":"2024-06-30T08:18:11.590Z"}
+{"level":"alert","message":"Invalid configuration detected","ms":"+0ms","path":"key2.nestedArray[2]","timestamp":"2024-06-30T08:18:23.362Z"}
+{"level":"alert","message":"Invalid configuration detected","ms":"+3ms","path":"key2.nestedObject.innerArray[1]","timestamp":"2024-06-30T08:18:23.365Z"}
+{"level":"alert","message":"Invalid configuration detected","ms":"+1ms","path":"key2.nestedArray[2]","timestamp":"2024-06-30T08:22:44.059Z"}
+{"level":"alert","message":"Invalid configuration detected","ms":"+0ms","path":"key2.nestedObject.innerArray[1]","timestamp":"2024-06-30T08:22:44.059Z"}
+{"level":"alert","message":"Invalid configuration detected","ms":"+0ms","path":"key2.nestedArray[2]","timestamp":"2024-06-30T08:25:13.328Z"}
+{"level":"alert","message":"Invalid configuration detected","ms":"+1ms","path":"key2.nestedObject.innerArray[1]","timestamp":"2024-06-30T08:25:13.329Z"}
+{"level":"alert","message":"Invalid configuration detected","ms":"+1ms","path":"node.name","timestamp":"2024-06-30T08:32:32.834Z"}
+{"level":"alert","message":"Invalid configuration detected","ms":"+1ms","path":"node.adminUsername","timestamp":"2024-06-30T08:32:59.468Z"}
+{"level":"alert","message":"Invalid configuration detected","ms":"+0ms","path":"node.adminPassword","timestamp":"2024-06-30T08:32:59.468Z"}
+{"level":"alert","message":"Invalid configuration detected","ms":"+0ms","path":"node.adminUsername","timestamp":"2024-06-30T08:33:42.872Z"}
+{"level":"alert","message":"Invalid configuration detected","ms":"+0ms","path":"node.adminPassword","timestamp":"2024-06-30T08:33:42.872Z"}

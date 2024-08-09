@@ -1,0 +1,7 @@
+{"level":"critical","message":"This is a critical log","ms":"+1ms","service":"Test","timestamp":"2024-06-29T09:13:03.645Z"}
+{"level":"critical","message":"This is a critical log","ms":"+0ms","service":"Test","timestamp":"2024-06-29T09:13:20.229Z"}
+{"level":"critical","message":"This is a critical log","ms":"+0ms","service":"Test","timestamp":"2024-06-29T09:14:01.782Z"}
+{"level":"critical","message":"This is a critical log","ms":"+0ms","service":"Test","timestamp":"2024-06-29T09:34:00.856Z"}
+{"level":"critical","message":"This is a critical log","ms":"+0ms","service":"Test","timestamp":"2024-06-29T09:34:20.285Z"}
+{"level":"critical","message":"This is a critical log","ms":"+0ms","service":"Test","timestamp":"2024-06-29T09:38:57.073Z"}
+{"level":"critical","message":"This is a critical log","ms":"+0ms","service":"Test","timestamp":"2024-06-29T09:39:07.917Z"}
